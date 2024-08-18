@@ -1,5 +1,6 @@
 Real-Time Yawn Detection Using OpenCV and Dlib
 
+
 This project implements a real-time yawn detection system using OpenCV and Dlib. The system captures video from a webcam, detects faces, and analyzes the facial landmarks to determine if a person is yawning. If a yawn is detected, an alert message is displayed on the video feed.
 
 Features
